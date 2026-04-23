@@ -9,3 +9,22 @@
 ## Points d’attention
 - Présentation du code
 - Pertinence des commentaires
+
+## Vocabulaire métier
+- Focaccia
+- Ingrédient
+- Boisson
+- Marque
+- Prix
+- Quantité
+- Composition
+- Nom
+- Identifiant
+- Base tomate
+- Base crème
+- Fromage
+- Viande
+- Légume
+- Commande
+- Menu
+- Client
