@@ -28,3 +28,16 @@
 - Commande
 - Menu
 - Client
+
+## Futures tables
+- focaccia
+- ingredient
+- boisson
+- marque
+- focaccia_ingredient
+
+## Relations pressenties
+- Une marque possède plusieurs boissons.
+- Une boisson appartient à une marque.
+- Une focaccia contient plusieurs ingrédients.
+- Un ingrédient peut être utilisé dans plusieurs focaccias.
